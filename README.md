@@ -1,2 +1,2 @@
 # ETL
-Projeto de fundamentos de ETL com Python
+Project that uses ETL fundamentals with Python.
